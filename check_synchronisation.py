@@ -1,3 +1,6 @@
+#install zabbbix_sender first : sudo apt-get install zabbix-sender
+
+
 import subprocess
 import json
 
